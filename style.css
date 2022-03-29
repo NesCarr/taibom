@@ -116,7 +116,7 @@ body {
   display: block;
   box-shadow: 0px 2px 0px #09d;
   width: 100%;
-  max-width: 25rem;
+  max-width: 20rem;
   text-decoration: none;
   padding: 1.21875rem 0.875rem;
   background: var(--shape);
